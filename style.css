@@ -94,12 +94,15 @@ body {
     height: 70px; /* Makes the divider cover the entire height of the black bar */
     width: 1px; /* Adjust the width of the divider as needed */
     position: absolute; /* Position the divider absolutely within the black bar */
-    left: 100px; /* Adjust the left position of the divider to your desired location */
+    left: 90px; /* Adjust the left position of the divider to your desired location */
 }
 
 .logo img {
     width: 80px; /* Adjust the width of the logo */
     height: 80px; /* Adjust the height of the logo*/
+    position: absolute;
+    left: -3px;
+    top: 15px;
 }
 
 
